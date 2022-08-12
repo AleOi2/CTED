@@ -1,0 +1,8 @@
+C:\Users\curso\source\repos\PrimeiroTeste\PrimeiroTeste\bin\Debug\PrimeiroTeste.exe.config
+C:\Users\curso\source\repos\PrimeiroTeste\PrimeiroTeste\bin\Debug\PrimeiroTeste.exe
+C:\Users\curso\source\repos\PrimeiroTeste\PrimeiroTeste\bin\Debug\PrimeiroTeste.pdb
+C:\Users\curso\source\repos\PrimeiroTeste\PrimeiroTeste\obj\Debug\PrimeiroTeste.csproj.AssemblyReference.cache
+C:\Users\curso\source\repos\PrimeiroTeste\PrimeiroTeste\obj\Debug\PrimeiroTeste.csproj.SuggestedBindingRedirects.cache
+C:\Users\curso\source\repos\PrimeiroTeste\PrimeiroTeste\obj\Debug\PrimeiroTeste.csproj.CoreCompileInputs.cache
+C:\Users\curso\source\repos\PrimeiroTeste\PrimeiroTeste\obj\Debug\PrimeiroTeste.exe
+C:\Users\curso\source\repos\PrimeiroTeste\PrimeiroTeste\obj\Debug\PrimeiroTeste.pdb
