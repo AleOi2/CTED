@@ -28,11 +28,17 @@ namespace Aula05Q13
             try
             {
                 conta.Sacar(30000);
+                Console.WriteLine("Retiada com sucesso");
             }
             catch (Exception err)
             {
+                Console.WriteLine(err.GetType().Name);
                 Console.WriteLine(err.Message);
                 Console.WriteLine(err.StackTrace);
+            }
+            finally
+            {
+                Console.WriteLine("Obrigado");
             }
         }
     }
