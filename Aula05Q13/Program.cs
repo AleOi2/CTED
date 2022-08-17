@@ -27,7 +27,16 @@ namespace Aula05Q13
             var conta = new Conta(1223.45);
             try
             {
-                conta.Sacar(30000);
+                //int.Parse("abc");
+                int number;
+                bool result = int.TryParse("ab", out number);
+                if (!result)
+                {
+                    throw new ArgumentException("Erro de excessao");
+                }
+                Console.WriteLine(number);
+
+                conta.Sacar(100);
                 Console.WriteLine("Retiada com sucesso");
             }
             catch (Exception err)
