@@ -1,0 +1,8 @@
+C:\Users\curso\source\repos\Aula05Q07\bin\Debug\Aula05Q07.exe.config
+C:\Users\curso\source\repos\Aula05Q07\bin\Debug\Aula05Q07.exe
+C:\Users\curso\source\repos\Aula05Q07\bin\Debug\Aula05Q07.pdb
+C:\Users\curso\source\repos\Aula05Q07\obj\Debug\Aula05Q07.csproj.AssemblyReference.cache
+C:\Users\curso\source\repos\Aula05Q07\obj\Debug\Aula05Q07.csproj.SuggestedBindingRedirects.cache
+C:\Users\curso\source\repos\Aula05Q07\obj\Debug\Aula05Q07.csproj.CoreCompileInputs.cache
+C:\Users\curso\source\repos\Aula05Q07\obj\Debug\Aula05Q07.exe
+C:\Users\curso\source\repos\Aula05Q07\obj\Debug\Aula05Q07.pdb
