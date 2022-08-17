@@ -1,8 +1,3 @@
-C:\Users\curso\source\repos\Teste2\Teste2\bin\Debug\Teste2.exe.config
-C:\Users\curso\source\repos\Teste2\Teste2\bin\Debug\Teste2.exe
-C:\Users\curso\source\repos\Teste2\Teste2\bin\Debug\Teste2.pdb
 C:\Users\curso\source\repos\Teste2\Teste2\obj\Debug\Teste2.csproj.AssemblyReference.cache
 C:\Users\curso\source\repos\Teste2\Teste2\obj\Debug\Teste2.csproj.SuggestedBindingRedirects.cache
 C:\Users\curso\source\repos\Teste2\Teste2\obj\Debug\Teste2.csproj.CoreCompileInputs.cache
-C:\Users\curso\source\repos\Teste2\Teste2\obj\Debug\Teste2.exe
-C:\Users\curso\source\repos\Teste2\Teste2\obj\Debug\Teste2.pdb
