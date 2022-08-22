@@ -1,0 +1,8 @@
+C:\Users\curso\source\repos\Prova\QEntrega\bin\Debug\QEntrega.exe.config
+C:\Users\curso\source\repos\Prova\QEntrega\bin\Debug\QEntrega.exe
+C:\Users\curso\source\repos\Prova\QEntrega\bin\Debug\QEntrega.pdb
+C:\Users\curso\source\repos\Prova\QEntrega\obj\Debug\QEntrega.csproj.AssemblyReference.cache
+C:\Users\curso\source\repos\Prova\QEntrega\obj\Debug\QEntrega.csproj.SuggestedBindingRedirects.cache
+C:\Users\curso\source\repos\Prova\QEntrega\obj\Debug\QEntrega.csproj.CoreCompileInputs.cache
+C:\Users\curso\source\repos\Prova\QEntrega\obj\Debug\QEntrega.exe
+C:\Users\curso\source\repos\Prova\QEntrega\obj\Debug\QEntrega.pdb
